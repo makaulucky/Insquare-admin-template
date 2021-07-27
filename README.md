@@ -1,0 +1,1 @@
+# squaretech-admin-template
